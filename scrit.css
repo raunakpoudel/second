@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.header {
+    background-color: #c3f0c5;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.sign-in {
+    background-color: rgb(112, 41, 41);
+    padding: 20px;
+    max-width: 400px;
+    margin: 5px auto;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.sign-in form {
+    display: flex;}
